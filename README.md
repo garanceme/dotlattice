@@ -5,7 +5,7 @@ Dot-lattice feature (orientation) extraction project by Garance Merholz - 8 Marc
 Project created under Ubuntu 20.04 with Python 3.9 
 File system based on Patrick Mineault's "true neutral cookiecutter" template: https://goodresearch.dev/setup.html
 
-Instructions to run:
+# Instructions to run:
 
 Linux (Ubuntu 22.04):
 - I recommend installing Anaconda and pygame if you don't have them, to have all necessary libraries; https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html and https://www.pygame.org/wiki/GettingStarted
